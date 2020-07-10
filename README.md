@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 - 🐻 I am currently a visiting student at UC Berkeley working on robot learning!
 - 🎓 I just graduated from Beijing Institute of Technology (BIT) as one of class of 2020!
