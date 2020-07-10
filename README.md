@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🐻 I am currently a visiting student at UC Berkeley working on robot learning!
+- 🎓 I just graduated from Beijing Institute of Technology (BIT) as one of class of 2020!
+- 👉🏻 I am going to the University of Oxford starting fall 2020!
+
 <!--
 **chengxuxin/chengxuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
